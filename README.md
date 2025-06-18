@@ -3,7 +3,9 @@
 
 <a href="https://www.abuseipdb.com/user/167733" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/167733.svg" alt="AbuseIPDB Contributor Badge" style="width: 200px;">
-</a>
+	
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Allspill.png)](https://tryhackme.com/p/Allspill)
+
 
 I am a Tier 2 Soc Analyst at Solace Cyber. I've a passion for digging in the weeds and getting to the crack of whats going on whether that be a sign in risk, an EDR alert, SIEM traffic alert or anything that might look a bit nasty I'm there for it, I'll dig it out, find out what I can on why it's there, what it's doing and how we can stop it doing that again. 
 
