@@ -9,8 +9,6 @@
  I'm a Tier 2 SOC Analyst at Solace Cyber with a strong passion for threat detection, investigation, and response. Whether it’s a suspicious sign-in, an EDR alert, or unusual SIEM traffic, I dive deep to uncover the root cause, understand its impact, and develop ways to prevent it from happening again. I enjoy getting into the weeds of incidents, learning from every alert, and continuously improving detection and response strategies.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My experience in the SOC has sparked a growing and lasting passion for cybersecurity. I'm committed to continuous learning, skill development, and staying sharp in an ever-evolving field. My goal is to progress in my career and find a long-term role where I can make a real impact—both technically and personally. I aim to become the best I can be, for myself, my family, the business I serve, and the broader cybersecurity community.
 
 ## Skills
