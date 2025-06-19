@@ -6,16 +6,27 @@
 	
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Allspill.png)](https://tryhackme.com/p/Allspill)
 
-
-I am a Tier 2 Soc Analyst at Solace Cyber. I've a passion for digging in the weeds and getting to the crack of whats going on whether that be a sign in risk, an EDR alert, SIEM traffic alert or anything that might look a bit nasty I'm there for it, I'll dig it out, find out what I can on why it's there, what it's doing and how we can stop it doing that again. 
+ I'm a Tier 2 SOC Analyst at Solace Cyber with a strong passion for threat detection, investigation, and response. Whether it’s a suspicious sign-in, an EDR alert, or unusual SIEM traffic, I dive deep to uncover the root cause, understand its impact, and develop ways to prevent it from happening again. I enjoy getting into the weeds of incidents, learning from every alert, and continuously improving detection and response strategies.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My time in the SOC has led me to develop a progressive passion for cybersecurity, I'm constantly learning and am looking for a place I can truly call home. I want to become the best I can be for myself, my family, the business and the wider community. 
+My experience in the SOC has sparked a growing and lasting passion for cybersecurity. I'm committed to continuous learning, skill development, and staying sharp in an ever-evolving field. My goal is to progress in my career and find a long-term role where I can make a real impact—both technically and personally. I aim to become the best I can be, for myself, my family, the business I serve, and the broader cybersecurity community.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Technical Skills:
+Incident Detection & Response (EDR, SIEM, SOAR, XDR)
+Log analysis, IOC investigation & MITRE ATT&CK framework
+Digital Forensics & Incident Response (DFIR)
+Threat Intelligence & Ethical Hacking
+Microsoft Security Stack: Azure, Defender, Sentinel
+Tools: SentinelOne, Darktrace, Fortinet, Flare.io
+
+Soft Skills:
+Critical thinking & analytical mindset
+Calm and solution-focused under pressure
+Strong communicator & team collaborator
+Proactive learner with a passion for continuous improvement
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -26,42 +37,9 @@ My time in the SOC has led me to develop a progressive passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certifications (Click to go to certs)
+[![CompTIA Security+ Badge](https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png)](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=07201ZG2P21E26QJ)
+[![Google Cybersecurity Certificate](https://images.credly.com/size/200x200/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://coursera.org/share/a527a1f32b8d9f1b2d0206c872669869)
+<img src="https://vem.com/wp-content/uploads/2012/05/FORTINET.png" width="200" height="200" />
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-
-<img src="https://cin.comptia.org/media/networkplus-logo-certified-ce-jpg.14/full" style="width: 100px">
-<img src="https://partners.comptia.org/docs/default-source/resources/a-logo-jpeg.png" style="width: 80px">
